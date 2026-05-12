@@ -122,6 +122,31 @@ The dashboard was developed using Streamlit to provide:
 
 ---
 
+## 📌 Future Improvements
+Revenue forecasting model
+Advanced ML algorithms
+Deployment optimization
+Real-time cloud database integration
+Instructor recommendation system
+
+## 👩‍💻 Developed By
+
+Swikriti Khare
+
+## 📜 Conclusion
+
+This project demonstrates how predictive analytics and Machine Learning can help educational platforms improve strategic planning, optimize pricing, and forecast future demand effectively.
+
+ The project combines:
+
+Data Analytics
+Machine Learning
+Data Visualization
+Business Intelligence
+Streamlit Deployment
+
+into a complete end-to-end analytics solution.
+
 # ▶️ How to Run the Project
 
 ## Step 1
@@ -131,27 +156,4 @@ Clone the repository:
 git clone https://github.com/SwikritiKhare/EduPro-Predictive-Analytics.git
 
 
-##📌 Future Improvements
-Revenue forecasting model
-Advanced ML algorithms
-Deployment optimization
-Real-time cloud database integration
-Instructor recommendation system
 
-##👩‍💻 Developed By
-
-Swikriti Khare
-
-##📜 Conclusion
-
-This project demonstrates how predictive analytics and Machine Learning can help educational platforms improve strategic planning, optimize pricing, and forecast future demand effectively.
-
-The project combines:
-
-Data Analytics
-Machine Learning
-Data Visualization
-Business Intelligence
-Streamlit Deployment
-
-into a complete end-to-end analytics solution.
