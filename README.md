@@ -128,4 +128,4 @@ The dashboard was developed using Streamlit to provide:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/EduPro-Predictive-Analytics.git
+git clone https://github.com/SwikritiKhare/EduPro-Predictive-Analytics.git
